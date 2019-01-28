@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="letter_color">#676767</color>
+    <color name="bck_color">#c3c3c3</color>
+    <color name="black">#000000</color>
+    <color name="red">#d53032</color>
 </resources>
