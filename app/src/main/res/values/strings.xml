@@ -16,4 +16,5 @@
     <string name="second_week">15 OCT</string>
     <string name="month">October</string>
     <string name="save">SAVE</string>
+    <string name="grid_layout">Grid Layout</string>
 </resources>

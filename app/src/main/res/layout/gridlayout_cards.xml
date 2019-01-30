@@ -217,5 +217,29 @@
                 android:textColor="@color/letter_color"
                 android:gravity="center"/>
         </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/btnTableLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:padding="10dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bck5"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/arrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_arrow"/>
+            <TextView
+                android:id="@+id/str_arrow"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:text="@string/contacts"
+                android:layout_below="@id/arrow"
+                android:textSize="20dp"
+                android:textColor="@color/green_dark"
+                android:gravity="center"/>
+        </RelativeLayout>
     </GridLayout>
 </ScrollView>
