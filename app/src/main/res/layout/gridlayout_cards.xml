@@ -235,7 +235,7 @@
                 android:id="@+id/str_arrow"
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
-                android:text="@string/contacts"
+                android:text="@string/table_layout"
                 android:layout_below="@id/arrow"
                 android:textSize="20dp"
                 android:textColor="@color/green_dark"

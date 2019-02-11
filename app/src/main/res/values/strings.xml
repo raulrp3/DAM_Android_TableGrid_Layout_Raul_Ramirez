@@ -17,4 +17,5 @@
     <string name="month">October</string>
     <string name="save">SAVE</string>
     <string name="grid_layout">Grid Layout</string>
+    <string name="table_layout">TABLE</string>
 </resources>
